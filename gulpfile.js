@@ -26,7 +26,7 @@
 //);
 
 //Doc: https://www.npmjs.com/package/gulp-template-compile
-// This seems the best tool and builds as a well accepted JST object
+// This seems the best tool and builds as a well accepted JST namespace by default
 var gulp = require('gulp');
 var template = require('gulp-template-compile');
 var concat = require('gulp-concat');
